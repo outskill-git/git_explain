@@ -1,3 +1,3 @@
 print("Hi Outskillers")
 
-print("Happy learning")
+print("deleted and inserted")
